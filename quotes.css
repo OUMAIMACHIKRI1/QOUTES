@@ -1,0 +1,12 @@
+div{
+    display: inline-block;
+    text-align: center;
+    border: 5px solid rgb(182, 36, 36);
+    padding: 3px;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+body{
+    display: flex;
+    justify-content: center;
+}
